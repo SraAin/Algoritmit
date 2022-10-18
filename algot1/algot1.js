@@ -31,4 +31,4 @@ function collectFeed() {
 const mj = collectFeed();
 console.log('Palautettu merkkijono: ' + mj);
 
-module.exports = { collectFeed };
+module.exports = collectFeed;
