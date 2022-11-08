@@ -1,0 +1,16 @@
+{
+  "name": "algot8",
+  "version": "1.0.0",
+  "description": "algorithm exercise",
+  "author": "tuito",
+  "license": "ISC",
+  "main": "algot8.js",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "ml-regression-exponential": "^2.1.0",
+    "ml-regression-polynomial": "^2.2.0"
+  }
+}
