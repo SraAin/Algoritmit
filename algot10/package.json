@@ -1,15 +1,15 @@
 {
-  "name": "algot9",
+  "name": "algot10",
   "version": "1.0.0",
   "description": "algorithm exercise",
   "author": "tuito",
   "license": "ISC",
-  "main": "algot9.js",
+  "main": "algot10.js",
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-google": "^0.14.0"
   },
   "dependencies": {
-    "js-regression": "^1.0.10"
+    "bayes-classifier": "0.0.5"
   }
 }
